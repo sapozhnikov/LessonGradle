@@ -10,6 +10,6 @@ repositories {
 }
 
 dependencies {
-    implementation project(":db")
-    implementation project(":service")
+    implementation(project(":db"))
+    implementation(project(":service"))
 }

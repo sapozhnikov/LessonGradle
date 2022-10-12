@@ -10,5 +10,5 @@ repositories {
 }
 
 dependencies {
-    implementation project(":db")
+    implementation(project(":db"))
 }
